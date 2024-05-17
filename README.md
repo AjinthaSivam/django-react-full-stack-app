@@ -120,7 +120,7 @@ npm run dev     # or yarn dev
 ## Deployment
 - The project is deployed using Choreo.
 
-### License
+## License
 - This project is licensed under the MIT License. See the LICENSE file for details.
 
 
